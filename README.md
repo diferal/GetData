@@ -1,5 +1,5 @@
 # Run_analysis.R
-**Run_analysis.R** create tidy data from *“Human Activity Recognition Using Smartphones Dataset”* and process them in such a way, that averaged values for each subject and activity type are estimated (see CodeBook.md for explanation about resulting data).
+**Run_analysis.R** creates tidy data from *“Human Activity Recognition Using Smartphones Dataset”* and process them in such a way, that averaged values for each subject and activity type are estimated (see CodeBook.md for explanation about resulting data).
 
 **Run_analysis.R** does following steps:
 
